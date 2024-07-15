@@ -5,11 +5,13 @@ This project aims to detect fraudulent credit card transactions using machine le
 
 
 ## Project Overview
-The goal of this project is to identify fraudulent transactions from a highly imbalanced dataset. We explore various machine learning algorithms, including RandomForestClassifier, AdaBoostClassifier, and XGBoost, to achieve high accuracy in fraud detection. We are focusing on ensemble methods because they are the best in dealing with unbalance. 
+The goal of this project is to identify fraudulent transactions from a highly imbalanced dataset.
+We explore various machine learning algorithms, including RandomForestClassifier, AdaBoostClassifier, and XGBoost, to achieve high accuracy in fraud detection.
+We are focusing on ensemble methods because they are the best in dealing with unbalance. 
 
 
 ## Installation
-To run this project, you need Python 3.x and the following packages:
+To run this project, you need Python 3 and the following packages:
 - pandas
 - NumPy
 - matplotlib
