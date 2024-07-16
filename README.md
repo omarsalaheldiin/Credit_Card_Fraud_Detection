@@ -35,7 +35,7 @@ Model performance is evaluated using various metrics:
 - Feature Importance
 
 ## Results
-The best model achieves an ROC-AUC score of 0.88 with the Random Forest Classifier. The most important features are identified, which include V17, V12, V14, V10, V11, and V16.
+The best model is the XGBoost, it achieves an AUC score of 0.973. The most important features are identified, which include V14, V4, V12, V17, V10, and V7.
 
 ## Libraries To run the notebook:
 - numpy
@@ -43,5 +43,4 @@ The best model achieves an ROC-AUC score of 0.88 with the Random Forest Classifi
 - matplotlib
 - seaborn
 - scikit-learn
-- imbalanced-learn
 - xgboost
