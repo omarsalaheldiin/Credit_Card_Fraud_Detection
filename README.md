@@ -32,7 +32,6 @@ The data is split into training, validation, and test sets.
 Model performance is evaluated using various metrics:
 - Confusion Matrix
 - ROC-AUC Score
-- Feature Importance
 
 ## Results
 The best model is the XGBoost, it achieves an AUC score of 0.973. The most important features are identified, which include V14, V4, V12, V17, V10, and V7.
